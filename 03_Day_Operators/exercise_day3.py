@@ -11,7 +11,7 @@ complex = 2 + 5j
     Enter height: 10
     The area of the triangle is 100
 '''
-""" base = float(input('Enter base : '))
+base = float(input('Enter base : '))
 height = float(input('Enter height : '))
 area = 0.5 * base * height
 print('Area of triangle : ', area)
@@ -146,7 +146,7 @@ sec_day = 24 * sec_hour
 sec_year = 365 * sec_day 
 year_old = int(input('Enter number of years you have lived : '))
 print(f'You have lived for {year_old * sec_year} seconds')
-"""
+
 # 23. Write a Python script that displays the following table
 
 '''py
